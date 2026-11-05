@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.curso.boot.demo_mvc_2026_02.DemoMvc202602ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.569 s -- in com.curso.boot.demo_mvc_2026_02.DemoMvc202602ApplicationTests
